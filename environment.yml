@@ -4,3 +4,4 @@ dependencies:
   - pip:
     - Box2D
     - ipycanvas
+    - ipywidgets
