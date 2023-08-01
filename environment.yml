@@ -2,4 +2,4 @@ dependencies:
   - python
   - scipy
   - pip:
-    - jupylet
+    - Box2D
