@@ -3,3 +3,4 @@ dependencies:
   - scipy
   - pip:
     - Box2D
+    - ipycanvas
